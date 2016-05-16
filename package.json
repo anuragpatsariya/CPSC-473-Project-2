@@ -1,0 +1,40 @@
+{
+  "name": "473_group_project",
+  "version": "0.0.1",
+  "description": "cpsc 473 group project similar to meetup",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuragpatsariya/473_Group_Project.git"
+  },
+  "keywords": [
+    "473",
+    "group",
+    "Eventfy"
+  ],
+  "author": "Anurag Patsariya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuragpatsariya/473_Group_Project/issues"
+  },
+  "homepage": "https://github.com/anuragpatsariya/473_Group_Project#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "formidable": "^1.0.17",
+    "angular": "^1.5.5",
+    "mongodb": "^2.1.18",
+    "mongoose": "^4.4.15",
+    "bower": "^1.7.9",
+    "mongo": "^0.1.0",
+    "session": "^0.1.0",
+    "http-server": "^0.9.0",
+    "multer": "^1.1.0"
+  },
+  "devDependencies": {}
+}

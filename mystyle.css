@@ -1,0 +1,42 @@
+.bg_image{
+    height:10%;
+    width: 100%
+}
+
+.body_content{
+    
+    margin:100px;
+    margin-left: 50px;
+    margin-right: 50px
+        l
+}
+
+.card {
+   
+  align-items: center;  
+}
+
+.card.small .card-image, .card.medium .card-image, .card.large .card-image {
+    max-height: 100%;
+    overflow: hidden;
+}
+
+
+.create_event{
+    /*margin-left: 200px;
+    margin-right:200px;*/
+    align-content: center;
+}
+
+
+.show_card{
+    /*margin-left:700px;
+    width: 1000px;*/
+    align-content: center;
+    
+}
+
+.fields{
+    /*margin-left:500px;*/
+    align-content: center;
+}
